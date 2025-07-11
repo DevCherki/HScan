@@ -29,8 +29,10 @@
 ---
 
 ## طريقة الاستخدام
-
-1. احفظ السكربت في ملف، مثلاً `cherki_scanner.py`.
-2. افتح الطرفية (Terminal) وشغّل الأمر:
-   ```bash
-   python cherki_scanner.py
+1. افتح الطرفية (Terminal) وشغّل الأمر:
+2. ```bash
+   git clone https://github.com/DevCherki/HScan
+3. ```bash
+   cd HScan   
+4. ```bash
+   python main.py
